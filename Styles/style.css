@@ -6,7 +6,7 @@
 
 /* Start Body */
 body {
-    background: url('background.jpg');
+    background: url(background.jpg);
     color: #070707;
    font-family: 'Baloo+Chettan', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 15px;
